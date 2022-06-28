@@ -1,0 +1,264 @@
+{
+  "GET_all_test_results_by_user_id": {
+    "data": [
+      {
+        "user_id": 1,
+        "test_id": 24,
+        "group_question_id": 6,
+        "test_name": "Nghiên cứu",
+        "score": 4,
+        "number_of_questions": 10,
+        "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục.",
+        "statistics": "Các INFP thường được coi là điềm tĩnh, kín đáo hoặc thậm chí nhút nhát. Tuy nhiên, đừng để vẻ bề ngoài đánh lừa. Dù các INFP có thể hơi thận trọng, nhưng không thể xem thường ngọn lửa và sự đam mê bên trong họ. Những người có loại tính cách này là thực sự rất trìu mến, một đặc điểm không thường thấy ở các loại tính cách khác. Lòng trắc ẩn của họ thực sự nồng nhiệt và lâu dài - nhưng các INFP sẽ sử dụng nó khá dè dặt, họ hướng nguồn năng lượng này đến với một vài người được chọn hoặc một nguyên nhân xứng đáng. Chủ nghĩa lý tưởng là ngọn cờ của những người mang tính cách INFP - và họ rất tự hào về nó. Thật không may, nó cũng khiến cho các INFP thường có thể cảm thấy bị hiểu lầm và bị cô lập, vì rất ít người mang chủ nghĩ lý tưởng như họ.",
+        "personality": "Các INFP thường được coi là điềm tĩnh, kín đáo hoặc thậm chí nhút nhát. Tuy nhiên, đừng để vẻ bề ngoài đánh lừa. Dù các INFP có thể hơi thận trọng, nhưng không thể xem thường ngọn lửa và sự đam mê bên trong họ. Những người có loại tính cách này là thực sự rất trìu mến, một đặc điểm không thường thấy ở các loại tính cách khác. Lòng trắc ẩn của họ thực sự nồng nhiệt và lâu dài - nhưng các INFP sẽ sử dụng nó khá dè dặt, họ hướng nguồn năng lượng này đến với một vài người được chọn hoặc một nguyên nhân xứng đáng. Chủ nghĩa lý tưởng là ngọn cờ của những người mang tính cách INFP - và họ rất tự hào về nó. Thật không may, nó cũng khiến cho các INFP thường có thể cảm thấy bị hiểu lầm và bị cô lập, vì rất ít người mang chủ nghĩ lý tưởng như họ.",
+        "core_val": "Có khoảng 4,5% dân số mang tính cách này",
+        "improve": "Máy tính . Xây dựng và bảo trì . Thủ công và liên quan . Chế tạo & quy trình sản xuất . Cơ khí & Điện",
+        "tips": "Kỹ thuật & Công nghệ . Khoa học tự nhiên & Công nghệ . Công nghệ Y khoa: Chuyên gia dinh dưỡng . Vận hành vận tải & liên quan . Nông nghiệp, lâm nghiệp & liên quan . Khoa học máy tính và Công nghệ thông tin",
+        "color": "#FFB65F",
+        "carousel_images": [
+          {
+            "carousel_images": "images/new/test_img.png"
+          },
+          {
+            "carousel_images": "images/new/test_img.png"
+          },
+          {
+            "carousel_images": "images/new/test_img.png"
+          }
+        ],
+        "career_groups": [
+          {
+            "job_name": "Nghề 26"
+          },
+          {
+            "job_name": "Nghề 27"
+          },
+          {
+            "job_name": "Nghề 28"
+          },
+          {
+            "job_name": "Nghề 29"
+          },
+          {
+            "job_name": "Nghề 30"
+          }
+        ]
+      },
+      {
+        "user_id": 1,
+        "test_id": 23,
+        "group_question_id": 5,
+        "test_name": "Xã hội",
+        "score": 4,
+        "number_of_questions": 10,
+        "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục.",
+        "statistics": "Các INFP thường được coi là điềm tĩnh, kín đáo hoặc thậm chí nhút nhát. Tuy nhiên, đừng để vẻ bề ngoài đánh lừa. Dù các INFP có thể hơi thận trọng, nhưng không thể xem thường ngọn lửa và sự đam mê bên trong họ. Những người có loại tính cách này là thực sự rất trìu mến, một đặc điểm không thường thấy ở các loại tính cách khác. Lòng trắc ẩn của họ thực sự nồng nhiệt và lâu dài - nhưng các INFP sẽ sử dụng nó khá dè dặt, họ hướng nguồn năng lượng này đến với một vài người được chọn hoặc một nguyên nhân xứng đáng. Chủ nghĩa lý tưởng là ngọn cờ của những người mang tính cách INFP - và họ rất tự hào về nó. Thật không may, nó cũng khiến cho các INFP thường có thể cảm thấy bị hiểu lầm và bị cô lập, vì rất ít người mang chủ nghĩ lý tưởng như họ.",
+        "personality": "Các INFP thường được coi là điềm tĩnh, kín đáo hoặc thậm chí nhút nhát. Tuy nhiên, đừng để vẻ bề ngoài đánh lừa. Dù các INFP có thể hơi thận trọng, nhưng không thể xem thường ngọn lửa và sự đam mê bên trong họ. Những người có loại tính cách này là thực sự rất trìu mến, một đặc điểm không thường thấy ở các loại tính cách khác. Lòng trắc ẩn của họ thực sự nồng nhiệt và lâu dài - nhưng các INFP sẽ sử dụng nó khá dè dặt, họ hướng nguồn năng lượng này đến với một vài người được chọn hoặc một nguyên nhân xứng đáng. Chủ nghĩa lý tưởng là ngọn cờ của những người mang tính cách INFP - và họ rất tự hào về nó. Thật không may, nó cũng khiến cho các INFP thường có thể cảm thấy bị hiểu lầm và bị cô lập, vì rất ít người mang chủ nghĩ lý tưởng như họ.",
+        "core_val": "Có khoảng 4,5% dân số mang tính cách này",
+        "improve": "Máy tính . Xây dựng và bảo trì . Thủ công và liên quan . Chế tạo & quy trình sản xuất . Cơ khí & Điện",
+        "tips": "Kỹ thuật & Công nghệ . Khoa học tự nhiên & Công nghệ . Công nghệ Y khoa: Chuyên gia dinh dưỡng . Vận hành vận tải & liên quan . Nông nghiệp, lâm nghiệp & liên quan . Khoa học máy tính và Công nghệ thông tin",
+        "color": "#FBB1CD",
+        "carousel_images": [
+          {
+            "carousel_images": "images/new/test_img.png"
+          },
+          {
+            "carousel_images": "images/new/test_img.png"
+          },
+          {
+            "carousel_images": "images/new/test_img.png"
+          }
+        ],
+        "career_groups": [
+          {
+            "job_name": "Nghề 21"
+          },
+          {
+            "job_name": "Nghề 22"
+          },
+          {
+            "job_name": "Nghề 23"
+          },
+          {
+            "job_name": "Nghề 24"
+          },
+          {
+            "job_name": "Nghề 25"
+          }
+        ]
+      },
+      {
+        "user_id": 1,
+        "test_id": 22,
+        "group_question_id": 4,
+        "test_name": "Quản lý",
+        "score": 4,
+        "number_of_questions": 10,
+        "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục.",
+        "statistics": "Các INFP thường được coi là điềm tĩnh, kín đáo hoặc thậm chí nhút nhát. Tuy nhiên, đừng để vẻ bề ngoài đánh lừa. Dù các INFP có thể hơi thận trọng, nhưng không thể xem thường ngọn lửa và sự đam mê bên trong họ. Những người có loại tính cách này là thực sự rất trìu mến, một đặc điểm không thường thấy ở các loại tính cách khác. Lòng trắc ẩn của họ thực sự nồng nhiệt và lâu dài - nhưng các INFP sẽ sử dụng nó khá dè dặt, họ hướng nguồn năng lượng này đến với một vài người được chọn hoặc một nguyên nhân xứng đáng. Chủ nghĩa lý tưởng là ngọn cờ của những người mang tính cách INFP - và họ rất tự hào về nó. Thật không may, nó cũng khiến cho các INFP thường có thể cảm thấy bị hiểu lầm và bị cô lập, vì rất ít người mang chủ nghĩ lý tưởng như họ.",
+        "personality": "Các INFP thường được coi là điềm tĩnh, kín đáo hoặc thậm chí nhút nhát. Tuy nhiên, đừng để vẻ bề ngoài đánh lừa. Dù các INFP có thể hơi thận trọng, nhưng không thể xem thường ngọn lửa và sự đam mê bên trong họ. Những người có loại tính cách này là thực sự rất trìu mến, một đặc điểm không thường thấy ở các loại tính cách khác. Lòng trắc ẩn của họ thực sự nồng nhiệt và lâu dài - nhưng các INFP sẽ sử dụng nó khá dè dặt, họ hướng nguồn năng lượng này đến với một vài người được chọn hoặc một nguyên nhân xứng đáng. Chủ nghĩa lý tưởng là ngọn cờ của những người mang tính cách INFP - và họ rất tự hào về nó. Thật không may, nó cũng khiến cho các INFP thường có thể cảm thấy bị hiểu lầm và bị cô lập, vì rất ít người mang chủ nghĩ lý tưởng như họ.",
+        "core_val": "Có khoảng 4,5% dân số mang tính cách này",
+        "improve": "Máy tính . Xây dựng và bảo trì . Thủ công và liên quan . Chế tạo & quy trình sản xuất . Cơ khí & Điện",
+        "tips": "Kỹ thuật & Công nghệ . Khoa học tự nhiên & Công nghệ . Công nghệ Y khoa: Chuyên gia dinh dưỡng . Vận hành vận tải & liên quan . Nông nghiệp, lâm nghiệp & liên quan . Khoa học máy tính và Công nghệ thông tin",
+        "color": "#95D9FD",
+        "carousel_images": [
+          {
+            "carousel_images": "images/new/test_img.png"
+          },
+          {
+            "carousel_images": "images/new/test_img.png"
+          },
+          {
+            "carousel_images": "images/new/test_img.png"
+          }
+        ],
+        "career_groups": [
+          {
+            "job_name": "Nghề 16"
+          },
+          {
+            "job_name": "Nghề 17"
+          },
+          {
+            "job_name": "Nghề 18"
+          },
+          {
+            "job_name": "Nghề 19"
+          },
+          {
+            "job_name": "Nghề 20"
+          }
+        ]
+      },
+      {
+        "user_id": 1,
+        "test_id": 21,
+        "group_question_id": 3,
+        "test_name": "Nghệ thuật",
+        "score": 4,
+        "number_of_questions": 10,
+        "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục.",
+        "statistics": "Các INFP thường được coi là điềm tĩnh, kín đáo hoặc thậm chí nhút nhát. Tuy nhiên, đừng để vẻ bề ngoài đánh lừa. Dù các INFP có thể hơi thận trọng, nhưng không thể xem thường ngọn lửa và sự đam mê bên trong họ. Những người có loại tính cách này là thực sự rất trìu mến, một đặc điểm không thường thấy ở các loại tính cách khác. Lòng trắc ẩn của họ thực sự nồng nhiệt và lâu dài - nhưng các INFP sẽ sử dụng nó khá dè dặt, họ hướng nguồn năng lượng này đến với một vài người được chọn hoặc một nguyên nhân xứng đáng. Chủ nghĩa lý tưởng là ngọn cờ của những người mang tính cách INFP - và họ rất tự hào về nó. Thật không may, nó cũng khiến cho các INFP thường có thể cảm thấy bị hiểu lầm và bị cô lập, vì rất ít người mang chủ nghĩ lý tưởng như họ.",
+        "personality": "Các INFP thường được coi là điềm tĩnh, kín đáo hoặc thậm chí nhút nhát. Tuy nhiên, đừng để vẻ bề ngoài đánh lừa. Dù các INFP có thể hơi thận trọng, nhưng không thể xem thường ngọn lửa và sự đam mê bên trong họ. Những người có loại tính cách này là thực sự rất trìu mến, một đặc điểm không thường thấy ở các loại tính cách khác. Lòng trắc ẩn của họ thực sự nồng nhiệt và lâu dài - nhưng các INFP sẽ sử dụng nó khá dè dặt, họ hướng nguồn năng lượng này đến với một vài người được chọn hoặc một nguyên nhân xứng đáng. Chủ nghĩa lý tưởng là ngọn cờ của những người mang tính cách INFP - và họ rất tự hào về nó. Thật không may, nó cũng khiến cho các INFP thường có thể cảm thấy bị hiểu lầm và bị cô lập, vì rất ít người mang chủ nghĩ lý tưởng như họ.",
+        "core_val": "Có khoảng 4,5% dân số mang tính cách này",
+        "improve": "Máy tính . Xây dựng và bảo trì . Thủ công và liên quan . Chế tạo & quy trình sản xuất . Cơ khí & Điện",
+        "tips": "Kỹ thuật & Công nghệ . Khoa học tự nhiên & Công nghệ . Công nghệ Y khoa: Chuyên gia dinh dưỡng . Vận hành vận tải & liên quan . Nông nghiệp, lâm nghiệp & liên quan . Khoa học máy tính và Công nghệ thông tin",
+        "color": "#BB9BFF",
+        "carousel_images": [
+          {
+            "carousel_images": "images/new/test_img.png"
+          },
+          {
+            "carousel_images": "images/new/test_img.png"
+          },
+          {
+            "carousel_images": "images/new/test_img.png"
+          }
+        ],
+        "career_groups": [
+          {
+            "job_name": "Nghề 11"
+          },
+          {
+            "job_name": "Nghề 12"
+          },
+          {
+            "job_name": "Nghề 13"
+          },
+          {
+            "job_name": "Nghề 14"
+          },
+          {
+            "job_name": "Nghề 15"
+          }
+        ]
+      },
+      {
+        "user_id": 1,
+        "test_id": 20,
+        "group_question_id": 2,
+        "test_name": "Nghiệp vụ",
+        "score": 4,
+        "number_of_questions": 10,
+        "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục.",
+        "statistics": "Các INFP thường được coi là điềm tĩnh, kín đáo hoặc thậm chí nhút nhát. Tuy nhiên, đừng để vẻ bề ngoài đánh lừa. Dù các INFP có thể hơi thận trọng, nhưng không thể xem thường ngọn lửa và sự đam mê bên trong họ. Những người có loại tính cách này là thực sự rất trìu mến, một đặc điểm không thường thấy ở các loại tính cách khác. Lòng trắc ẩn của họ thực sự nồng nhiệt và lâu dài - nhưng các INFP sẽ sử dụng nó khá dè dặt, họ hướng nguồn năng lượng này đến với một vài người được chọn hoặc một nguyên nhân xứng đáng. Chủ nghĩa lý tưởng là ngọn cờ của những người mang tính cách INFP - và họ rất tự hào về nó. Thật không may, nó cũng khiến cho các INFP thường có thể cảm thấy bị hiểu lầm và bị cô lập, vì rất ít người mang chủ nghĩ lý tưởng như họ.",
+        "personality": "Các INFP thường được coi là điềm tĩnh, kín đáo hoặc thậm chí nhút nhát. Tuy nhiên, đừng để vẻ bề ngoài đánh lừa. Dù các INFP có thể hơi thận trọng, nhưng không thể xem thường ngọn lửa và sự đam mê bên trong họ. Những người có loại tính cách này là thực sự rất trìu mến, một đặc điểm không thường thấy ở các loại tính cách khác. Lòng trắc ẩn của họ thực sự nồng nhiệt và lâu dài - nhưng các INFP sẽ sử dụng nó khá dè dặt, họ hướng nguồn năng lượng này đến với một vài người được chọn hoặc một nguyên nhân xứng đáng. Chủ nghĩa lý tưởng là ngọn cờ của những người mang tính cách INFP - và họ rất tự hào về nó. Thật không may, nó cũng khiến cho các INFP thường có thể cảm thấy bị hiểu lầm và bị cô lập, vì rất ít người mang chủ nghĩ lý tưởng như họ.",
+        "core_val": "Có khoảng 4,5% dân số mang tính cách này",
+        "improve": "Máy tính . Xây dựng và bảo trì . Thủ công và liên quan . Chế tạo & quy trình sản xuất . Cơ khí & Điện",
+        "tips": "Kỹ thuật & Công nghệ . Khoa học tự nhiên & Công nghệ . Công nghệ Y khoa: Chuyên gia dinh dưỡng . Vận hành vận tải & liên quan . Nông nghiệp, lâm nghiệp & liên quan . Khoa học máy tính và Công nghệ thông tin",
+        "color": "#FF8F8F",
+        "carousel_images": [
+          {
+            "carousel_images": "images/new/test_img.png"
+          },
+          {
+            "carousel_images": "images/new/test_img.png"
+          },
+          {
+            "carousel_images": "images/new/test_img.png"
+          }
+        ],
+        "career_groups": [
+          {
+            "job_name": "Nghề 6"
+          },
+          {
+            "job_name": "Nghề 7"
+          },
+          {
+            "job_name": "Nghề 8"
+          },
+          {
+            "job_name": "Nghề 9"
+          },
+          {
+            "job_name": "Nghề 10"
+          }
+        ]
+      },
+      {
+        "user_id": 1,
+        "test_id": 19,
+        "group_question_id": 1,
+        "test_name": "Kỹ thuật",
+        "score": 4,
+        "number_of_questions": 10,
+        "detail": "Yếu tố di truyền và kinh nghiệm của những cá nhân có nhóm sở thích về Kỹ thuật dẫn đến sự ưu tiên cho các hoạt động đòi hỏi thao tác với các đồ vật, công cụ, máy móc và động vật một cách rõ ràng, có trật tự hoặc có hệ thống. Nhóm này không có thiện cảm với các hoạt động giáo dục hoặc trị liệu. Những khuynh hướng hành vi này dẫn đến việc nổi trội ở các năng lực thủ công, cơ khí, nông nghiệp, điện và kỹ thuật và thiếu hụt các năng lực xã hội và giáo dục.",
+        "statistics": "Các INFP thường được coi là điềm tĩnh, kín đáo hoặc thậm chí nhút nhát. Tuy nhiên, đừng để vẻ bề ngoài đánh lừa. Dù các INFP có thể hơi thận trọng, nhưng không thể xem thường ngọn lửa và sự đam mê bên trong họ. Những người có loại tính cách này là thực sự rất trìu mến, một đặc điểm không thường thấy ở các loại tính cách khác. Lòng trắc ẩn của họ thực sự nồng nhiệt và lâu dài - nhưng các INFP sẽ sử dụng nó khá dè dặt, họ hướng nguồn năng lượng này đến với một vài người được chọn hoặc một nguyên nhân xứng đáng. Chủ nghĩa lý tưởng là ngọn cờ của những người mang tính cách INFP - và họ rất tự hào về nó. Thật không may, nó cũng khiến cho các INFP thường có thể cảm thấy bị hiểu lầm và bị cô lập, vì rất ít người mang chủ nghĩ lý tưởng như họ.",
+        "personality": "Các INFP thường được coi là điềm tĩnh, kín đáo hoặc thậm chí nhút nhát. Tuy nhiên, đừng để vẻ bề ngoài đánh lừa. Dù các INFP có thể hơi thận trọng, nhưng không thể xem thường ngọn lửa và sự đam mê bên trong họ. Những người có loại tính cách này là thực sự rất trìu mến, một đặc điểm không thường thấy ở các loại tính cách khác. Lòng trắc ẩn của họ thực sự nồng nhiệt và lâu dài - nhưng các INFP sẽ sử dụng nó khá dè dặt, họ hướng nguồn năng lượng này đến với một vài người được chọn hoặc một nguyên nhân xứng đáng. Chủ nghĩa lý tưởng là ngọn cờ của những người mang tính cách INFP - và họ rất tự hào về nó. Thật không may, nó cũng khiến cho các INFP thường có thể cảm thấy bị hiểu lầm và bị cô lập, vì rất ít người mang chủ nghĩ lý tưởng như họ.",
+        "core_val": "Có khoảng 4,5% dân số mang tính cách này",
+        "improve": "Máy tính . Xây dựng và bảo trì . Thủ công và liên quan . Chế tạo & quy trình sản xuất . Cơ khí & Điện",
+        "tips": "Kỹ thuật & Công nghệ . Khoa học tự nhiên & Công nghệ . Công nghệ Y khoa: Chuyên gia dinh dưỡng . Vận hành vận tải & liên quan . Nông nghiệp, lâm nghiệp & liên quan . Khoa học máy tính và Công nghệ thông tin",
+        "color": "#74E4AF",
+        "carousel_images": [
+          {
+            "carousel_images": "images/new/test_img.png"
+          },
+          {
+            "carousel_images": "images/new/test_img.png"
+          },
+          {
+            "carousel_images": "images/new/test_img.png"
+          }
+        ],
+        "career_groups": [
+          {
+            "job_name": "Nghề 1"
+          },
+          {
+            "job_name": "Nghề 2"
+          },
+          {
+            "job_name": "Nghề 3"
+          },
+          {
+            "job_name": "Nghề 4"
+          },
+          {
+            "job_name": "Nghề 5"
+          }
+        ]
+      }
+    ]
+  }
+}
